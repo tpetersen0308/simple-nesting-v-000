@@ -90,7 +90,8 @@ def adding_matz
 	   :known_for => "Ruby",
 	    :languages => ["LISP", "C"]
 	}
-	binding.pry
+
+	programmer_hash
 
 end
 
